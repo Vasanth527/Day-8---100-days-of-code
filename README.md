@@ -1,1 +1,3 @@
 # Day-8---100-days-of-code
+
+in day 8 i learned about , how to create functions with inputs and how to set parameters to that function and how to pass arguments in that functions , using this knowledge i've created "Caesar Cipher" project , about project - in this project it takes letters as input and if u want encryypt or decrypt the message the program will do for you...
